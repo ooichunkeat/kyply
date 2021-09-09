@@ -1,0 +1,137 @@
+[
+  {
+    "key": "agzy",
+    "id": 38,
+    "name": "XXX 环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "jiali",
+    "id": 39,
+    "name": "XXX 佳丽 TV",
+    "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "lajiaozy",
+    "id": 40,
+    "name": "XXX 辣椒资源",
+    "api": "https://apilj.com/api.php/Seacms/vod/",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "dadizy",
+    "id": 41,
+    "name": "XXX 大地资源",
+    "api": "https://dadiapi.com/api.php",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "LYCe0z",
+    "id": 42,
+    "name": "XXX 78特殊.乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "4btciy",
+    "id": 43,
+    "name": "XXX 84特殊.鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "Iy0Jlq",
+    "id": 44,
+    "name": "XXX 79特殊.苍天",
+    "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "RRvupO",
+    "id": 45,
+    "name": "XXX 96特殊.av88资源",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "芒果",
+    "id": 46,
+    "name": "XXX 芒果",
+    "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "优果",
+    "id": 47,
+    "name": "XXX 优果",
+    "api": "https://www.ugvapi.com/inc/zyapimac.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "老鸭资源",
+    "id": 48,
+    "name": "XXX 老鸭资源",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "SPECIAL",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "恐怖鸭资源",
+    "id": 49,
+    "name": "恐怖鸭资源",
+    "api": "https://kongbuya.com/api.php/provide/vod/at/xml/\n",
+    "download": "",
+    "jiexiUrl": "https://m3u8.4kya.com/?url=",
+    "group": "福利",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  }
+]
